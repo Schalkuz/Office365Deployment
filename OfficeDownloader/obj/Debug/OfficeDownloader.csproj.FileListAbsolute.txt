@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\OfficeDownloader\OfficeDownloader\bin\Debug\OfficeDownloader.exe.config
+C:\Users\Admin\source\repos\OfficeDownloader\OfficeDownloader\bin\Debug\OfficeDownloader.exe
+C:\Users\Admin\source\repos\OfficeDownloader\OfficeDownloader\bin\Debug\OfficeDownloader.pdb
+C:\Users\Admin\source\repos\OfficeDownloader\OfficeDownloader\obj\Debug\OfficeDownloader.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\OfficeDownloader\OfficeDownloader\obj\Debug\OfficeDownloader.Form1.resources
+C:\Users\Admin\source\repos\OfficeDownloader\OfficeDownloader\obj\Debug\OfficeDownloader.Properties.Resources.resources
+C:\Users\Admin\source\repos\OfficeDownloader\OfficeDownloader\obj\Debug\OfficeDownloader.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\OfficeDownloader\OfficeDownloader\obj\Debug\OfficeDownloader.exe
+C:\Users\Admin\source\repos\OfficeDownloader\OfficeDownloader\obj\Debug\OfficeDownloader.pdb

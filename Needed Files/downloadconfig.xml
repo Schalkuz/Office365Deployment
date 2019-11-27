@@ -1,0 +1,7 @@
+<Configuration> 
+  <Add SourcePath="\\c\Office" OfficeClientEdition="64"> 
+   <Product ID="O365ProPlusRetail" > 
+     <Language ID="en-us" />      
+   </Product> 
+ </Add> 
+</Configuration>
